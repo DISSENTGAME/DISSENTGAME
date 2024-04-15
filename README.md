@@ -1,8 +1,7 @@
 привет  меня зовут енот 
-занемаюсь  созданием игр и изучение с#
-сейчас учусь в PROWEB
-сомной можно свизаться по дискорду 
-Dissent Game#1901
+занимаюсь  сазданием игр и изучение с#
+со мной можно связаться по дискорду 
+Dissent Game
 
 <!---
 DISSENTGAME/DISSENTGAME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
